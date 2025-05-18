@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/711693916873730822
+creation_time: 1747588402359
+experiment_id: '711693916873730822'
+last_update_time: 1747588402359
+lifecycle_stage: active
+name: green_taxi_tracker
