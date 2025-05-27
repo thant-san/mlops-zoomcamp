@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/144395336539846905/c61b636bc72b457faa4a6d1c6e344b5c/artifacts
+deleted_time: 1748362915018
+end_time: null
+entry_point_name: ''
+experiment_id: '144395336539846905'
+lifecycle_stage: deleted
+run_id: c61b636bc72b457faa4a6d1c6e344b5c
+run_name: inquisitive-mole-657
+run_uuid: c61b636bc72b457faa4a6d1c6e344b5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748362296967
+status: 1
+tags: []
+user_id: codespace

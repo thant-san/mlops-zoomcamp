@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/144395336539846905/1ddcae321a4a4de0a71ec8531d27a369/artifacts
+deleted_time: 1748362915030
+end_time: 1748361012237
+entry_point_name: ''
+experiment_id: '144395336539846905'
+lifecycle_stage: deleted
+run_id: 1ddcae321a4a4de0a71ec8531d27a369
+run_name: orderly-stork-783
+run_uuid: 1ddcae321a4a4de0a71ec8531d27a369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748360998971
+status: 4
+tags: []
+user_id: codespace

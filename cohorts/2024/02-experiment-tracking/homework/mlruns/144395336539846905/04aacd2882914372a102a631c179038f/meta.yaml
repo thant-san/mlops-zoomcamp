@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/144395336539846905/04aacd2882914372a102a631c179038f/artifacts
+deleted_time: 1748362915023
+end_time: 1748361709048
+entry_point_name: ''
+experiment_id: '144395336539846905'
+lifecycle_stage: deleted
+run_id: 04aacd2882914372a102a631c179038f
+run_name: secretive-ant-713
+run_uuid: 04aacd2882914372a102a631c179038f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748361695570
+status: 3
+tags: []
+user_id: codespace

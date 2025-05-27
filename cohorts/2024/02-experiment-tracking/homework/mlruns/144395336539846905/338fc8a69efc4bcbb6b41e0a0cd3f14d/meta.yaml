@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/144395336539846905/338fc8a69efc4bcbb6b41e0a0cd3f14d/artifacts
+deleted_time: 1748362915034
+end_time: 1748362136385
+entry_point_name: ''
+experiment_id: '144395336539846905'
+lifecycle_stage: deleted
+run_id: 338fc8a69efc4bcbb6b41e0a0cd3f14d
+run_name: defiant-fawn-874
+run_uuid: 338fc8a69efc4bcbb6b41e0a0cd3f14d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748362123110
+status: 3
+tags: []
+user_id: codespace
